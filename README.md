@@ -39,3 +39,5 @@ The data used is a sample HR dataset ideal for building insights into workforce 
 
 ---
 
+**Explore, customize, and build upon this dashboard to strengthen your data visualization and HR analytics expertise.**
+
